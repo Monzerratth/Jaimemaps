@@ -1,0 +1,4 @@
+<resources>
+    <!-- Reemplaza TU_API_KEY_AQUI por tu API Key de Google Maps (Maps SDK for Android) -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBQRYrRcNx5TiufBl-CAIUjZOS2-wxopeU</string>
+</resources>
